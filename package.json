@@ -1,0 +1,15 @@
+{
+  "name": "puck-yeah",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w @puck-yeah/client",
+    "build": "npm run build -w @puck-yeah/client",
+    "preview": "npm run preview -w @puck-yeah/client"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
