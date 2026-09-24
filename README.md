@@ -13,18 +13,20 @@ Browser-based 1v1 turn-based physics soccer. See [`docs/PLAN.md`](./docs/PLAN.md
 npm install
 ```
 
-## Run the client (Phase 0)
+## Run the client
 
 ```bash
 npm run dev
 ```
 
-Open the URL Vite prints (usually `http://localhost:5173`). You should see a Phaser boot scene with the **Puck Yeah** title.
+Open the URL Vite prints (usually `http://localhost:5173`).
+
+**Phase 1:** drag the teal puck and release to flick it into the ball. Tune feel in `apps/client/src/game/config/prototypeConfig.ts`.
 
 ## Workspace
 
 ```text
-apps/client   Vite + TypeScript + Phaser 3
+apps/client   Vite + TypeScript + Phaser 3 (+ Matter physics)
 docs/         Plan + phase guides
 ```
 
@@ -36,4 +38,4 @@ docs/         Plan + phase guides
 | [docs/PLAN.md](./docs/PLAN.md) | Rules, architecture, MVP scope |
 | [docs/phases/](./docs/phases/README.md) | Phase-by-phase guides |
 
-Currently at **Phase 0** — thin client boot. Next: [Phase 1 physics prototype](./docs/phases/PHASE_01_PHYSICS_PROTOTYPE.md).
+Currently at **Phase 1** — physics prototype. Next: [Phase 2 local match](./docs/phases/PHASE_02_LOCAL_MATCH.md).
