@@ -1,4 +1,6 @@
-# Puck Off
+# Puck-Off
+
+![Puck-Off](./puck-off-banner.jpeg)
 
 Browser-based 1v1 turn-based physics soccer. See [`docs/PLAN.md`](./docs/PLAN.md) and [`AGENTS.md`](./AGENTS.md).
 
