@@ -28,7 +28,7 @@ The renderer must stop being the source of truth for score, turns, and winners.
 ## Expected structure (end of Phase 3)
 
 ```text
-puck-yeah/
+puck-off/
 ├── apps/
 │   └── client/                    # Phaser/React consume engine
 ├── packages/

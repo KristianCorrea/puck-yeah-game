@@ -1,4 +1,4 @@
-# Puck Yeah — Phase Guides
+# Puck Off — Phase Guides
 
 Team reference for how the game is built, phase by phase.
 

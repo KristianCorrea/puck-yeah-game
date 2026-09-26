@@ -1,6 +1,6 @@
-# Puck Yeah — Plan
+# Puck Off — Plan
 
-Project plan for **Puck Yeah**, a browser-based 1v1 competitive physics soccer game.
+Project plan for **Puck Off**, a browser-based 1v1 competitive physics soccer game.
 
 This document is the **source of truth** for game rules, architecture, stack, and MVP scope. Use it for team and AI context.
 
@@ -32,7 +32,7 @@ These decisions are locked for the MVP unless explicitly changed later:
 
 # 1. GAME CONCEPT
 
-**Puck Yeah** is a 1v1 turn-based physics soccer game.
+**Puck Off** is a 1v1 turn-based physics soccer game.
 
 The game combines elements of:
 
@@ -881,7 +881,7 @@ The server should be able to use the game engine without importing UI code.
 **End-state** monorepo (build toward this; do not require it for Phase 1):
 
 ```text
-puck-yeah/
+puck-off/
 │
 ├── apps/
 │   ├── client/

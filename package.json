@@ -1,13 +1,13 @@
 {
-  "name": "puck-yeah",
+  "name": "puck-off",
   "private": true,
   "workspaces": [
     "apps/*"
   ],
   "scripts": {
-    "dev": "npm run dev -w @puck-yeah/client",
-    "build": "npm run build -w @puck-yeah/client",
-    "preview": "npm run preview -w @puck-yeah/client"
+    "dev": "npm run dev -w @puck-off/client",
+    "build": "npm run build -w @puck-off/client",
+    "preview": "npm run preview -w @puck-off/client"
   },
   "engines": {
     "node": ">=20"

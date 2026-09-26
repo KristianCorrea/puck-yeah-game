@@ -1,10 +1,10 @@
-# AGENTS.md — Puck Yeah
+# AGENTS.md — Puck Off
 
 Bootstrapping notes for humans and coding agents working in this repo.
 
 ## What this project is
 
-**Puck Yeah** is a browser-based **1v1 turn-based physics soccer** game. Players flick permanent pucks into a ball and try to score into the opponent’s goal. First to **3** wins (or higher score when the timer ends).
+**Puck Off** is a browser-based **1v1 turn-based physics soccer** game. Players flick permanent pucks into a ball and try to score into the opponent’s goal. First to **3** wins (or higher score when the timer ends).
 
 ## Read these first
 

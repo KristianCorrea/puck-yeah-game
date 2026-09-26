@@ -29,7 +29,7 @@ This phase is deliberately **thin**. Do **not** scaffold the full monorepo, Sock
 Something close to this is enough:
 
 ```text
-puck-yeah/   (or puck-off/)
+puck-off/
 ├── apps/
 │   └── client/                 # or just /client at repo root
 │       ├── index.html
